@@ -140,7 +140,7 @@ p{
         text-align: center;
     }
     .nav-item{
-        text-align: start;
+        text-align: end;
     }
     .title-img{
         position:static;
